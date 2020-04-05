@@ -16,7 +16,7 @@ console.log(`Qua so 2 la qua ${traiCay[2]}`)
 console.log(`Qua so 3 la qua ${traiCay[3]}`)
 */
 
-const {buaSang, buaTrua, buaToi} = buaAn
+const { buaSang, buaTrua, buaToi } = buaAn
 
 console.log(`Sang nay toi an ${buaSang}`)
 console.log(`Trua nay toi an ${buaTrua}`)
@@ -30,3 +30,9 @@ console.log(`Qua so 0 la ${quaCam}`)
 console.log(`Qua so 0 la ${quaQuyt}`)
 console.log(`Qua so 0 la ${quaMit}`)
 console.log(`Qua so 0 la ${quaDua}`)
+
+// Tao object sinhVien
+// ten
+// tuoi
+// lay ten va tuoi tu sinh vien ra, gan vao bien tenCuaToi, tuoiCuaToi
+// In: 'Toi ten la tenCuaToi - tuoiCuaToi tuoi'. Dung Template Literal.
