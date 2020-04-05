@@ -1,4 +1,4 @@
-const computedPropertyName = ['buaToi']
+const computedPropertyName = 'buaToi'
 
 const buaAn = {
   buaSang: 'xoi',
